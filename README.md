@@ -1,4 +1,8 @@
-  Linux kernel release 3.x <http://kernel.org/>
+Current Kernel Status:
+
+Does not boot!!! on splash(HTC Screen) starts to viberate and bootloops!
+
+Linux kernel release 3.x <http://kernel.org/>
 
 These are the release notes for Linux version 3.  Read them carefully,
 as they tell you what this is all about, explain how to install the
